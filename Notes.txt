@@ -1,2 +1,2 @@
-- I could ( I guess ) figure out what is applied within sklearn linear regression model, the Standardization ( Z Standardization ) is applied with 10k iterations and a learning rate of 0.01
+- I could ( I guess ) figure out what is applied within sklearn linear regression model, it is the Standardization ( Z Standardization ) with 10k iterations and a learning rate of 0.01
 - Stochastic gradient descent needs a smaller learning rate and much much much more time than Batch Gradient descent to achieve relatively the same results
